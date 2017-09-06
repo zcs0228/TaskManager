@@ -1,0 +1,5 @@
+E:\zcsgit\TaskManager\TaskManager\bin\Debug\TaskManager.dll
+E:\zcsgit\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+E:\zcsgit\TaskManager\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+E:\zcsgit\TaskManager\TaskManager\obj\Debug\TaskManager.dll
+E:\zcsgit\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
